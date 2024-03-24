@@ -9,3 +9,4 @@ Then it commits the file.
 """
 
 print("Hello world, my name is Fabiola Gonzalez.")
+print("My favorite color is yellow!")
